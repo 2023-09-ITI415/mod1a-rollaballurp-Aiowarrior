@@ -191,6 +191,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -269,6 +274,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pick up (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -349,6 +359,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -371,7 +386,7 @@ GameObject:
   - component: {fileID: 219139591}
   m_Layer: 0
   m_Name: Pickups
-  m_TagString: Untagged
+  m_TagString: Pick Up
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -728,6 +743,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -912,6 +932,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -996,6 +1021,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1074,6 +1104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pick up (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1603,6 +1638,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1928,6 +1968,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2006,6 +2051,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pick up (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2086,6 +2136,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2164,6 +2219,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pick up
+      objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
