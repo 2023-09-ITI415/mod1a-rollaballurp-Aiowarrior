@@ -8,7 +8,7 @@ public class Playercontroller : MonoBehaviour
 
     private Rigidbody rb;
 
-    void start ()
+    void Start ()
     {
         rb = GetComponent<Rigidbody>();
     }
@@ -26,9 +26,9 @@ public class Playercontroller : MonoBehaviour
 
     void OnTriggerEnter (Collider other) 
     {
-        if (other.GameObject.Comparetag ("Pick Up"))
+        if (other.gameObject.CompareTag ("Pick Up"))
         {
-            other.GameObject.SetActive (false);
+            other.gameObject.SetActive (false);
         }
     }
 
