@@ -1890,6 +1890,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pick up (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7875379827999069511, guid: f463ab35aa7bb9c48bc176371c87f38e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
